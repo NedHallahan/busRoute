@@ -1,4 +1,4 @@
-This file randomly generates rdiership information
+#This file randomly generates rdiership information
 import pandas
 import random
 stops = pandas.read_csv("stops.csv")
