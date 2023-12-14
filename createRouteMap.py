@@ -1,3 +1,4 @@
+#This file creates an HTML Map to visualize results
 import folium
 import json
 
